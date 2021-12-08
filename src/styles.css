@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li{
+  list-style: none;
+  border: 1px solid black;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  width: 50%;
+  margin: auto;
+  display: list-item;
+  margin-block-start: 1rem;
+
+}
+
+.musicbutton{
+  padding:0.4rem;
+  margin: 1rem;
+  border: 2px solid black;
+  border-radius: 0.3rem;
+  background-color: lightsalmon;
+}
+
+hr{
+  width:50%;
+}
+
+.songname{
+  margin:auto;
+  /* padding-right: 0.2rem; */
+  /* padding: 1rem; */
+}
+
+ul{
+  margin-top: 1rem;
+}
+
+.rating{
+  font-size:0.9rem;
+  padding-top: 00.3rem;
+  margin-top: 0.3rem;
+}
